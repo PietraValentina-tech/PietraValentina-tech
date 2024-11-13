@@ -1,4 +1,4 @@
-# Olá, eu sou **[Seu Nome]!** 👨‍💻✨
+# Olá, eu sou **Pietra Valentina!** 👨‍💻✨
 
 **Desenvolvedor Full-Stack | Entusiasta de Inteligência Artificial**  
 Transformando ideias em soluções inovadoras com código! 🚀
